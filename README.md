@@ -43,5 +43,5 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![TG](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=0xReadMe&theme=blue-green
-https://github-readme-stats.vercel.app/api?username=0xReadMe&theme=blue-green
+![Stats]https://github-readme-stats.vercel.app/api/top-langs/?username=0xReadMe&theme=blue-green
+![LanguageStats]https://github-readme-stats.vercel.app/api?username=0xReadMe&theme=blue-green
