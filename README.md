@@ -50,7 +50,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![TG](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
-![Views](https://gitwar.herokuapp.com/badge?username=0xReadme&style=flat-square)
+![Views](https://gitwar.herokuapp.com/badge?username=0xReadMe&style=for-the-badge)
 
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=0xReadMe&theme=blue-green)
