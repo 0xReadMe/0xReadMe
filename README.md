@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### Components of PC:
+![AMD](https://img.shields.io/badge/AMD-Radeon_RX_580-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![Intel](]https://img.shields.io/badge/Intel-Xeon_E2689-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+
 ### Using OS:
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) under ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)
 
